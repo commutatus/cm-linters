@@ -1,0 +1,47 @@
+{
+  "name": "@commutatus/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint config by commutatus",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/commutatus/cm-linters.git",
+    "directory": "eslint-config"
+  },
+  "keywords": [
+    "config",
+    "eslint",
+    "eslintconfig",
+    "nextjs",
+    "prettier",
+    "commutatus"
+  ],
+  "author": "commutatus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/commutatus/cm-linters/issues"
+  },
+  "homepage": "https://github.com/commutatus/cm-linters/eslint-config/#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.45.1",
+    "@typescript-eslint/parser": "^5.45.1",
+    "eslint": "^8.29.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-security": "^1.5.0",
+    "eslint-plugin-sonarjs": "^0.17.0",
+    "prettier": "^2.8.0"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.45.1",
+    "@typescript-eslint/parser": "^5.45.1",
+    "eslint": "^8.29.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-security": "^1.5.0",
+    "eslint-plugin-sonarjs": "^0.17.0",
+    "prettier": "^2.8.0"
+  }
+}
