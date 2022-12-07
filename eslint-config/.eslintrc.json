@@ -1,0 +1,16 @@
+{
+  "plugins": ["security", "sonarjs"],
+  "extends": [
+    "plugin:security/recommended",
+    "plugin:import/typescript",
+    "prettier"
+  ],
+  "rules": {
+    "require-jsdoc": "off",
+    "react/react-in-jsx-scope": "off",
+    "@next/next/no-img-element": "off",
+    "sonarjs/cognitive-complexity": "warn",
+    "sonarjs/no-identical-expressions": "error"
+  }
+}
+  
