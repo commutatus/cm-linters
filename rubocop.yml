@@ -7,8 +7,5 @@ Style/FrozenStringLiteralComment:
 Style/Documentation:
    Enabled: false
 
-Style/Tab:
-   Enabled: false
-
 Layout/IndentationStyle:
    Enabled: false
