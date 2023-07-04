@@ -12,3 +12,9 @@ Layout/IndentationStyle:
 
 Layout/LineLength:
    Enabled: false
+
+Metrics/MethodLength:
+   Enabled: false
+
+Metrics/AbcSize:
+   Enabled: false
