@@ -5,3 +5,5 @@ detectors:
     enabled: true
     accept:
       - e
+  TooManyStatements:
+    enabled: false
