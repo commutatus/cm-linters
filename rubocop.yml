@@ -9,3 +9,15 @@ Style/Documentation:
 
 Layout/IndentationStyle:
    Enabled: false
+
+Layout/LineLength:
+   Enabled: false
+
+Metrics/MethodLength:
+   Enabled: false
+
+TooManyStatements:
+   Enabled: false
+
+DuplicateMethodCall:
+   Enabled: false
