@@ -1,5 +1,6 @@
 AllCops:
   DisabledByDefault: false
+  TargetRubyVersion: 3.3
   Exclude:
     - 'db/migrate/*'
 
