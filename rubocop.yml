@@ -3,9 +3,8 @@ AllCops:
   TargetRubyVersion: 3.3
   Exclude:
     - "db/schema.rb"
-
-NewCops:
-  Enabled: true
+  NewCops:
+    Enabled: true
 
 Style/FrozenStringLiteralComment:
   Enabled: false
