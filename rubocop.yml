@@ -4,6 +4,9 @@ AllCops:
   Exclude:
     - "db/schema.rb"
 
+NewCops:
+  Enabled: true
+
 Style/FrozenStringLiteralComment:
   Enabled: false
 
